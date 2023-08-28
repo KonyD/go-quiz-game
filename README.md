@@ -1,5 +1,5 @@
 # go-quiz-game
-Quiz game written in Go.
+A basic terminal based quiz game written in Go. 
 
 **Running the project:**
 ```bash
